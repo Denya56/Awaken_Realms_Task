@@ -1,6 +1,5 @@
 # Awaken_Realms_Task 
-Dice throwing
-My solution to the test task from Awaken Realms interview.
+Dice throwing: My solution to the test task from Awaken Realms interview.
 
 Skończony projekt powinien pozwalać użytkownikowi rzucać dwunastościenną kostką.
 Kostka powinna zachowywać się możliwie najbardziej jak prawdziwa, czyli toczyć
